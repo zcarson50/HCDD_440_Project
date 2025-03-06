@@ -1,0 +1,26 @@
+{
+  "name": "test-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/x-date-pickers": "^7.27.1",
+    "leaflet": "^1.9.4",
+    "next": "15.1.7",
+    "react": "^19.0.0",
+    "react-clock": "^5.1.0",
+    "react-datepicker": "^8.1.0",
+    "react-dom": "^19.0.0",
+    "react-google-autocomplete": "^2.7.4",
+    "react-time-picker": "^7.0.0",
+    "styled": "^1.0.0",
+    "styled-components": "^6.1.15"
+  }
+}
